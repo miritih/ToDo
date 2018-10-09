@@ -1,0 +1,8 @@
+development:
+  GMAIL_USERNAME: ericmwenda254@gmail.com
+  GMAIL_USERNAME: Technology5
+  DATABASE_USER: ubuntu
+  DATABASE_PASSWORD:
+production:
+  GMAIL_USERNAME: ericmwenda254@gmail.com
+  GMAIL_PASSWORD: Technology5
